@@ -8,7 +8,6 @@ public class BestResolve {
     }
 
     public static class Troll {
-        private static final List<String> vowels = List.of(new String[]{"a", "e", "i", "o", "u", "A", "E", "I", "O", "U"});
         public static String disemvowel(String str) {
             return str.replaceAll("(?i)[aeiou]" , "");
         }
