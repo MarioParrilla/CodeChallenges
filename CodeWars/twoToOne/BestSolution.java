@@ -1,6 +1,6 @@
 package twoToOne;
 
-public class BestResolve {
+public class BestSolution {
     public static void main(String[] args) {
         System.out.println(longest("aretheyhere", "yestheyarehere"));
         System.out.println(longest("loopingisfunbutdangerous", "lessdangerousthancoding"));

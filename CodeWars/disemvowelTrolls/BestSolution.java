@@ -1,8 +1,6 @@
 package disemvowelTrolls;
 
-import java.util.List;
-
-public class BestResolve {
+public class BestSolution {
     public static void main(String[] args) {
         System.out.println(Troll.disemvowel("This website is for losers LOL!"));
     }

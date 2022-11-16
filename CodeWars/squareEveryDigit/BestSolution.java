@@ -2,7 +2,7 @@ package squareEveryDigit;
 
 import java.util.stream.Collectors;
 
-public class BestResolve {
+public class BestSolution {
     public static void main(String[] args) {
         System.out.println(SquareDigit.squareDigits(9119));
     }
