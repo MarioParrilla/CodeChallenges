@@ -23,5 +23,4 @@ public class BestSolution {
             return 0;
         }
     }
-    }
 }
